@@ -1,2 +1,2 @@
-# Web-scraper_xpath
-This is a web scraper about la republica news
+# Web-scrapper_xpath
+This is a web scrapper about la republica news
